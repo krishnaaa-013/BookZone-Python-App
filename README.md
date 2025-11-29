@@ -73,4 +73,4 @@ Once all setup steps are complete, run the main application file from your proje
 
 Bash
 
-python open_main_app.py
+python login.py
